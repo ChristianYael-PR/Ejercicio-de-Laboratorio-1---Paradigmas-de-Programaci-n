@@ -15,7 +15,7 @@ Grupo:
 3CV1. <br />
 Fecha:
 05 de marzo de 2024. <br />
- -------------------------------------<br />
+ -------------------------------------
 Reporte: Programa en Python y C para generar, imprimir, buscar y ordenar arreglos de números enteros aleatorios. <br />
 Diseño y Desarrollo del programa: <br />
 	Python: <br />
