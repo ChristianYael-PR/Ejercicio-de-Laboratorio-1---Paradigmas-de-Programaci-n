@@ -45,10 +45,10 @@ El programa en C sigue un diseño similar al de Python, utilizando funciones par
 
 Cómo ejecutar códigos fuente:<br />
 Python: <br />
-1. Abre el archivo "EL1_Python.py", por ejemplo en Visual Studio Code.<br />
-2. Asegúrate de tener instalado Python en tu sistema.<br />
-3. Ejecuta el programa haciendo clic en el botón de ejecución en la esquina superior<br />
+Paso 1. Abre el archivo "EL1_Python.py", por ejemplo en Visual Studio Code.<br />
+Paso 2. Asegúrate de tener instalado Python en tu sistema.<br />
+Paso 3. Ejecuta el programa haciendo clic en el botón de ejecución en la esquina superior<br />
 C++:<br />
-1. Abre el archivo "EL1_C++.cpp" en tu entorno de desarrollo C++ (por ejemplo, Dev C++).<br />
-2. Compila el programa.<br />
-3. Ejecuta el programa resultante.<br />
+Paso 1. Abre el archivo "EL1_C++.cpp" en tu entorno de desarrollo C++ (por ejemplo, Dev C++).<br />
+Paso 2. Compila el programa.<br />
+Paso 3. Ejecuta el programa resultante.<br />
