@@ -45,7 +45,7 @@ Diseño y Desarrollo del programa: <br />
 •	Ejemplificar búsqueda y cálculo de tiempo:<br />
 	Se genera un arreglo aleatorio, se imprime, se busca un valor en él, se ordena y se imprime nuevamente.<br />
 	Se calcula el tiempo de ejecución de todo el proceso.<br />
- -------------------------------------<br />
+ -------------------------------------
 Cómo ejecutar códigos fuente:<br />
 Python: <br />
 Paso 1. Abre el archivo "EL1_Python.py", por ejemplo en Visual Studio Code.<br />
