@@ -33,7 +33,7 @@ Diseño y Desarrollo del programa: <br />
 	Se genera un arreglo aleatorio, se imprime, se busca un valor en él, se ordena y se imprime nuevamente.<br />
 	Se calcula el tiempo de ejecución de todo el proceso.<br />
 
-	C:<br />
+	C: <br />
 El programa en C sigue un diseño similar al de Python, utilizando funciones para generar, imprimir, buscar y ordenar arreglos de números enteros aleatorios.<br />
 •	Se incluyen las bibliotecas stdio.h, stdlib.h y time.h.<br />
 •	Se define el tamaño del arreglo como 1000.<br />
